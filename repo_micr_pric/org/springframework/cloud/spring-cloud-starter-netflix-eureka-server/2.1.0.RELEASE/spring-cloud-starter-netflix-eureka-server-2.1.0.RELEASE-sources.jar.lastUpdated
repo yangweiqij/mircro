@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 13 11:09:20 CST 2019
+http\://repo.spring.io/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-netflix-eureka-server\:jar\:sources\:2.1.0.RELEASE from/to spring-repo (http\://repo.spring.io)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1550027360223
+@default-spring-repo-http\://repo.spring.io/.lastUpdated=1550027358393

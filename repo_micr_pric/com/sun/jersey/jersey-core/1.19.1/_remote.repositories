@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 13 11:26:00 CST 2019
+jersey-core-1.19.1-sources.jar>central=
+jersey-core-1.19.1.jar>central=
+jersey-core-1.19.1.pom>central=

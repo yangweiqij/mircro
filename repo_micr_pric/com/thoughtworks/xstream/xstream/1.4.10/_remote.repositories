@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 13 11:30:15 CST 2019
+xstream-1.4.10.jar>central=
+xstream-1.4.10-sources.jar>central=
+xstream-1.4.10.pom>central=

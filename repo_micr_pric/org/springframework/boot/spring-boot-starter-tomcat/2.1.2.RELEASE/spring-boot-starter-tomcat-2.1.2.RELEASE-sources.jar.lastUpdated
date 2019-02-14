@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 13 11:34:11 CST 2019
+http\://repo.spring.io/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1550028851217
+http\://repo.spring.io/.lastUpdated=1550028850855
+https\://repo.maven.apache.org/maven2/.error=
