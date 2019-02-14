@@ -1,0 +1,48 @@
+server:
+ #port: ${PORT:${SERVER_PORT:0}}
+ port: 8002
+spring:
+ profiles:
+    active: client
+# application:
+#    name: config-client
+ cloud:
+    config:
+      name: application
+      uri: http://localhost:8001
+#words: I,You,He,She,It
+---
+spring:
+  profiles: client
+  application:
+    name: config-client
+    
+---
+spring:
+  profiles: subject
+  application:
+    name: lab-4-subject
+  
+---
+spring:
+  profiles: verb
+  application:
+    name: lab-4-verb
+
+---
+spring:
+  profiles: article
+  application:
+    name: lab-4-article
+
+---
+spring:
+  profiles: adjective
+  application:
+    name: lab-4-adjective
+
+---
+spring:
+  profiles: noun
+  application:
+    name: lab-4-noun
